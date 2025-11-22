@@ -1,5 +1,5 @@
-<h1 align="center">Hey, Hadia here</h1>
-<h3 align="center">I write code that sometimes works.💻</h3>
+<h1 align="center">About Me:</h1>
+<h3 align="center">I write code that sometimes works.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiaislam-16&label=Profile%20views&color=0e75b6&style=flat" alt="hadiaislam-16" /> </p>
 
