@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiaislam-16&label=Profile%20views&color=0e75b6&style=flat" alt="hadiaislam-16" /> </p>
 
-- 🌱 I’m currently learning **the art of building things.**
-
-- 📫 How to reach me **thisisnothadiya16@gmail.com**
-
-- ⚡ Fun fact **I take pictures of sunsets like they’re limited edition.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hadia-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadia-i" height="30" width="40" /></a>
